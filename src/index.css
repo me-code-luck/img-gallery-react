@@ -21,6 +21,14 @@ code {
 
 }
 
+.container {
+  /* border: 1px solid red; */
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
 .header {
   text-align: center;
   color: white;
